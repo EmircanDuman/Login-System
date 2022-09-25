@@ -1,2 +1,2 @@
 # Login-System
- A prototype login system
+ A prototype login system using Java.
